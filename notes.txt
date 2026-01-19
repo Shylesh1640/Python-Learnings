@@ -1,1 +1,2 @@
-day - 17-01-2026 - logistic regression
+day1 - 17-01-2026 - logistic regression
+day2 - 19-01-2026 - logistic regression - Advanced
