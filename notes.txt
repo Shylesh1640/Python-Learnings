@@ -4,3 +4,4 @@ day3 - 20-01-2026 - part3 logistic regression
 day4 - 22-01-2026 - Entropy in dessision tree
 day5 - 22-01-2026 - Information Gain
 day6 - 23-01-2026 - Gini Impurity
+day7 - 24-01-2036 - Dessision tree Spilt
